@@ -1,0 +1,20 @@
+{
+    "name": "costabrazuca/brmoney",
+    "description": "Money formater for brazilians",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cesar Augusto,",
+            "email": "cesaraug76@hotmail.com"
+        }
+    ],
+    "autoload": {
+      "psr-4":{
+        "BrMoney\\": "src/"
+      }
+    },
+    "require": {
+      "php": ">=7.0"
+    }
+}
